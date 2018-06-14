@@ -1,0 +1,1 @@
+El pdf contiene cinco (5) conjunto de tablas relacionales. Cada tabla de cada conjunto está interconectada con otra del mismo conjunto. Cada conjunto representa uno de los cinco (5) ejercicios propuestos. 
